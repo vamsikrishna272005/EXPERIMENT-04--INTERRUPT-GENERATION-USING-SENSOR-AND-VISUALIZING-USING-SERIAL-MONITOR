@@ -3,7 +3,7 @@
 ###  DATE: 15-09-2025
 
 ###  NAME: Vamsi Krishna G
-###  ROLL NO :212223220120
+###  REG NO : 212223220120
 ###  DEPARTMENT: B.Tech-IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
